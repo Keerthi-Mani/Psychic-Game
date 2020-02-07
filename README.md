@@ -41,7 +41,20 @@ var computerGuess =
 
 4. The game is triggered by the event 'onkeyup' (the event that occurs when the User releases a key on the keyboard)
 
+```
+document.onkeyup = function(event) {
+  //determines which key was pressed
+  var userGuess = event.key.toLowerCase();
+```
+
 5. Variable 'userGuess' is the captured by the 'event.key' (the key on the keyboard the User releases captured by event).
+
+```
+  if (event.which < 65 || event.which > 90) {
+    alert("Only a to z characters are allowed");
+    return;
+  }
+```
 
 6. Note: The 'userGuess' is updated each time a key is released.
 
