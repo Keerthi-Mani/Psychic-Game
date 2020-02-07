@@ -51,6 +51,8 @@ Background Image from Galaxy
 
 12. Note: When the function 'resetGame' is called, the variables 'wins' and 'loses' are not reset to keep track of the users points.
 
+## Screenshots
+
 ## GitHub Deployment
 
 [Check the link](https://keerthi-mani.github.io/Psychic-Game/)
