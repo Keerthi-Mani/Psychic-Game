@@ -1,27 +1,26 @@
-
-body { 
-    background-image: url("../images/space-galaxy-stars-universe-wallpaper-and-background-space.jpg");  
+/* Background image */
+body {
+  background-image: url("../images/space-galaxy-stars-universe-wallpaper-and-background-space.jpg");
 }
 
 h1 {
-    padding-top: 8%;
-    text-align: center;
-    font-size: 65px;
-    font-weight: 200px;
-    color: crimson;
-    
+  padding-top: 8%;
+  text-align: center;
+  font-size: 65px;
+  font-weight: 200px;
+  color: crimson;
 }
 h2 {
-    padding-top: 2%;
-   text-align: center;
-   font-size: 40px; 
-   color: white;
+  padding-top: 2%;
+  text-align: center;
+  font-size: 40px;
+  color: white;
 }
 
 p {
-    padding-top: 2%;
-    text-align: center;
-    font-size: 30px;
-    font-weight: 150px;
-    color: white;   
+  padding-top: 2%;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 150px;
+  color: white;
 }
