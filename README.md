@@ -53,6 +53,9 @@ Background Image from Galaxy
 
 ## Screenshots
 
+<img width="1045" alt="Screen Shot 2020-02-07 at 2 07 38 PM" src="https://user-images.githubusercontent.com/52920074/74058171-72125880-49b3-11ea-9774-d2269381b167.png">
+<img width="699" alt="Screen Shot 2020-02-07 at 2 07 55 PM" src="https://user-images.githubusercontent.com/52920074/74058168-70e12b80-49b3-11ea-9868-de4ead5e2ac9.png">
+
 ## GitHub Deployment
 
 [Check the link](https://keerthi-mani.github.io/Psychic-Game/)
