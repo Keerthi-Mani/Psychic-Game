@@ -34,6 +34,11 @@ Background Image from Galaxy
 
 3. Upon page load, the computer randomly selects a letter when the function 'computerChoice' is called
 
+```
+var computerGuess =
+  computerChoices[Math.floor(Math.random() * computerChoices.length)];
+```
+
 4. The game is triggered by the event 'onkeyup' (the event that occurs when the User releases a key on the keyboard)
 
 5. Variable 'userGuess' is the captured by the 'event.key' (the key on the keyboard the User releases captured by event).
