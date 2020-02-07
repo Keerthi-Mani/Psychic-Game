@@ -16,8 +16,10 @@ Test your psychic abilities! The User has (lucky number) 9 tries to correctly gu
 
 ## Built With:
 
-1. CSS
-2. JavaScript
+- HTML
+- CSS
+- JQuery
+- JavaScript
 
 ## CSS:
 
